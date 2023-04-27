@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image:url(./assets/fundo.svg);
+ 
+}
+
+main {
+    margin: 200px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
